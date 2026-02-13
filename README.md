@@ -312,22 +312,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
-
-- **vLLM**: Paged attention design inspiration
-- **Mixtral**: MoE architecture reference
-- **Triton**: GPU kernel framework
-
----
-
-## 📞 Support
-
-- **Issues**: https://github.com/yourusername/volt-infer/issues
-- **Discussions**: https://github.com/yourusername/volt-infer/discussions
-- **Email**: support@volt-infer.dev
-
----
-
 ## 🗺️ Roadmap
 
 - [ ] **Q1 2026**: Support for DeepSeek-MoE models
@@ -337,4 +321,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**Built with ⚡ by the Volt-Infer Team**
+
